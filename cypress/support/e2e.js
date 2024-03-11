@@ -18,6 +18,7 @@ import './commands'
 import  './Login'
 import './status'
 import './Search_&_Favorites'
+import './logout'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
